@@ -1,0 +1,16 @@
+Feeding Intencional kg
+0.11f
+10
+0
+Morte Horrivel kg
+0.11f
+10
+0
+Suicida kg
+0.11f
+10
+0
+Batatada kg
+0.11f
+10
+1
